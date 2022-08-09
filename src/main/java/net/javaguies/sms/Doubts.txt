@@ -1,0 +1,4 @@
+1. Try to insert a Student without save method using native query. Do we need to give ID in this case?
+2. We don't need to use Transactional and Modifying when using save and findAl()?.
+
+
